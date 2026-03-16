@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.png" alt="Workplace Ninja Germany" />
+</p>
+
 # Workplace Ninja Germany - Slides Archive
 
 The official slides archive for [Workplace Ninja Germany](https://www.wpninjas-germany.com) -- Germany's premier Microsoft Modern Workplace conference.
