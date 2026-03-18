@@ -33,7 +33,7 @@ Part of the global Workplace Ninja community. By the community, for the communit
 | [Refresh your CA Policy - Whats new in Conditional Access](2025/Refresh%20your%20CA%20Policy%20-%20Whats%20new%20in%20Conditional%20Access%20-%20Tim%20Wolf%2C%20Jonathan%20Towles.pdf) | Tim Wolf, Jonathan Towles |
 | [Simplifying Android Enterprise Management](2025/Simplifying%20Android%20Enterprise%20Management%20-%20Nicky%20De%20Westelinck.pdf) | Nicky De Westelinck |
 | [The 2025 Intune Toolkit - Must-Have Community Tools for Intune Admins](2025/The%202025%20Intune%20Toolkit%20-%20Must-Have%20Community%20Tools%20for%20Intune%20Admins%20-%20Oktay%20Sari%2C%20Somesh%20Pathak.pdf) | Oktay Sari, Somesh Pathak |
-| [The Top 5+ Do's, Don'ts & How's of Azure Virtual Desktop](2025/The%20Top%205%2B%20Do%E2%80%99s%2C%20Don%E2%80%99ts%20%26%20How%E2%80%99s%20of%20Azure%20Virtual%20Desktop%20-%20Marcel%20Meurer.pdf) | Marcel Meurer |
+| [The Top 5+ Do's, Don'ts & How's of Azure Virtual Desktop](2025/The%20Top%205%2B%20Do%27s%2C%20Don%27ts%20%26%20How%27s%20of%20Azure%20Virtual%20Desktop%20-%20Marcel%20Meurer.pdf) | Marcel Meurer |
 | [The Windows 365 Experience - Boot, App & Link - Live!](2025/The%20Windows%20365%20Experience%20-%20Boot%2C%20App%20%26%20Link%20-%20Live%21%20-%20Jon%20Jarvis.pdf) | Jon Jarvis |
 | [Top 10 Learnings from Intune Projects](2025/Top%2010%20Learnings%20from%20Intune%20Projects%20-%20Florian%20Salzmann%2C%20Jannik%20Reinhard.pdf) | Florian Salzmann, Jannik Reinhard |
 | [Windows Resiliency - Is your WinRE healthy](2025/Windows%20Resiliency%20-%20Is%20your%20WinRE%20healthy%20-%20Martin%20Himken%2C%20Johannes%20Geir%20Kristjansson.pdf) | Martin Himken, Johannes Geir Kristjansson |
